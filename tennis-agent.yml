@@ -1,0 +1,8 @@
+name: tennis-agent
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pytorch
+  - pandas
+  - jupyter
